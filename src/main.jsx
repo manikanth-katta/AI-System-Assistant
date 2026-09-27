@@ -667,7 +667,7 @@ Never invent CPU utilization, total RAM usage, physical disk capacity/free space
           <div className="v2-download"><div><div className="v2-eyebrow"><Smartphone size={13}/> ANDROID NATIVE VERSION</div><h2>Deeper device monitoring is next.</h2><p>Android can provide native RAM, CPU, storage, battery, network and device information that a normal browser cannot.</p></div><button className="v2-primary" onClick={() => alert("Android APK download will be connected after the native Android build is ready.")}><Download size={17}/> Download APK</button></div>
         </section>
 
-        <footer className="v2-footer"><span>© 2026 Manikanth. All Rights Reserved.</span><span>© AI System Assistant</span><span>Gemini AI • Voice • Permissions • Device dashboard • Android native support</span></footer>
+        <footer className="v2-footer"><span>© 2026 Manikanth. All Rights Reserved.</span><span>Gemini AI • Voice • Permissions • Device dashboard • Android native support</span></footer>
       </main>
 
       {showPermissionScreen && <StartupScreen online={online} battery={battery} batterySupported={batterySupported} micAllowed={micAllowed} cameraStatus={cameraStatus} locationStatus={locationStatus} notificationStatus={notificationStatus} isStarting={isStarting} onStart={startAssistant} onLimited={() => setShowPermissionScreen(false)}/>} 
