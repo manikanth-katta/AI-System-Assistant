@@ -9,7 +9,6 @@ import {
   GoogleAIBackend
 } from "firebase/ai";
 
-// Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyBNcTdqvuh37wE7E4QRIQBxj-Yi-PwpPts",
   authDomain: "ai-system-assistant-8ae13.firebaseapp.com",
@@ -21,10 +20,10 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 
-// App Check
-const appCheck = initializeAppCheck(app, {
+// Firebase App Check
+initializeAppCheck(app, {
   provider: new ReCaptchaEnterpriseProvider(
-    "YOUR_RECAPTCHA_ENTERPRISE_SITE_KEY"
+    "6Le3F9ItAAAAAIzr1OeO2FxlU0siCb0bv5XAG0Pn"
   ),
   isTokenAutoRefreshEnabled: true
 });
