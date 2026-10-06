@@ -40,7 +40,112 @@ The application combines an AI chat experience with Android-native capabilities 
 > **Project status:** Actively evolving. More assistant, automation, memory, and device-control capabilities are planned.
 
 ---
+---
 
+## 🛠️ Tech Stack
+
+### 📱 Application
+- **Flutter** — Cross-platform application development
+- **Dart** — Application programming language
+- **Android** — Native device capabilities
+
+### 🤖 AI
+- **Google Gemini** — AI-powered conversations and responses
+
+### 🔥 Backend & Services
+- **Firebase** — Web hosting and application services
+- **Firebase App Check** — Application security
+
+### 🌐 Web
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+---
+
+## ✨ Key Features
+
+- 🤖 AI-powered conversations
+- 🎙️ Voice interaction
+- 🔊 AI response playback
+- 📱 Android system information
+- 🔋 Battery monitoring
+- 💾 RAM and storage information
+- 🌤️ Weather information
+- 🔐 Permission management
+- 🌙 Futuristic dark interface
+- 📊 Modern system dashboard
+- ⚡ Fast and responsive interface
+
+---
+
+## 🚀 Project Status
+
+**JARVIS is actively evolving.**
+
+Future versions will introduce more AI capabilities, automation, memory, device-control features, and intelligent system interactions.
+
+---
+
+## 📦 Download
+
+### Android APK
+
+The latest Android APK is available in the **GitHub Releases** section.
+
+➡️ Download the latest release and install it on your Android device.
+
+### 🌐 Web App
+
+The project is also available as a live web application.
+
+➡️ Visit the live application using the **Website** link in the repository's About section.
+
+---
+
+## 🗺️ Roadmap
+
+- [x] AI chat
+- [x] Voice interaction
+- [x] AI response playback
+- [x] Device information
+- [x] Battery monitoring
+- [x] RAM and storage information
+- [x] Weather information
+- [x] Permission management
+- [x] Modern dark UI
+- [x] Android APK release
+- [x] Live web application
+- [ ] Advanced voice commands
+- [ ] AI memory
+- [ ] More device controls
+- [ ] Intelligent automation
+- [ ] Offline AI capabilities
+- [ ] More personalization
+
+---
+
+## 👨‍💻 Author
+
+**Katta Venkata Manikanth**
+
+Developer & Creator of JARVIS — AI System Assistant.
+
+**Project:** JARVIS — AI System Assistant  
+**Version:** 1.0.0  
+**License:** MIT
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the [`LICENSE`](LICENSE) file for details.
+
+---
+
+⭐ If you find this project interesting, consider giving the repository a **Star**.
 ## 📱 Screenshots
 
 ### Welcome
